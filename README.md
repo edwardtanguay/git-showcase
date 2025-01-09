@@ -12,3 +12,8 @@
 - user 1 change & user 2 change
 
 - feat001, user1 change
+- feat002, added line by user 1
+
+
+------
+Added footer by user 1
