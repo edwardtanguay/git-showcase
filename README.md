@@ -7,3 +7,4 @@
 - another line added online, and extended locally
 
 - user 1 added line
+- line added by user 2
