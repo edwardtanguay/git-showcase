@@ -17,6 +17,8 @@
 - here is the added line (second)
 - second fix
 
+- user 2 added a line here
+
 ------
 Added footer by user 1 -- user1 added to footer
 
