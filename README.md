@@ -20,5 +20,4 @@
 - user 2 added a line here
 
 ------
-Added footer by user 1 -- user1 added to footer
-
+Added footer by user 1 -- user1 added to footer -- added by user2 
