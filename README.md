@@ -2,4 +2,4 @@
 
 ## set up
 
-- this is nothing to set up yet
+- there is nothing to set up yet
