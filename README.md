@@ -18,5 +18,5 @@
 - second fix
 
 ------
-Added footer by user 1
+Added footer by user 1 -- user1 added to footer
 
