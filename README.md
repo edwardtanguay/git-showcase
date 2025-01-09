@@ -15,6 +15,7 @@
 - feat002, added line by user 1
 - user1: small fix (first)
 - here is the added line (second)
+- second fix
 
 ------
 Added footer by user 1
