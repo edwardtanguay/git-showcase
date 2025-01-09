@@ -13,7 +13,8 @@
 
 - feat001, user1 change
 - feat002, added line by user 1
-- user1: small fix
+- user1: small fix (first)
+- here is the added line (second)
 
 ------
 Added footer by user 1
